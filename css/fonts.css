@@ -1,0 +1,8 @@
+
+@font-face {
+  font-family: 'RFDewiExpanded-Black';
+  src: url('../fonts/RFDewiExpanded-Black/RFDewiExpanded-Black.woff2') format('woff2'),
+       url('../fonts/RFDewiExpanded-Black/RFDewiExpanded-Black.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
